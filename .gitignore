@@ -1,0 +1,4 @@
+build/
+cmake-build-debug/
+server/build/
+client/build/
